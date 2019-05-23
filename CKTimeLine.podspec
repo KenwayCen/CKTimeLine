@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CKTimeLine"
-  spec.version      = "0.0.1"
+  spec.version      = "v0.0.1"
   spec.summary      = "CKTimeLine 将时间戳转换为某个指定的时间段表示的一个时间字符串，类似于时间轴"
   spec.description  = <<-DESC
 			CKTimeLine 将时间戳转换为某个指定的时间段表示的一个时间字符串，类似于时间轴
