@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = 'https://github.com/KenwayCen/CKTimeLine'
-  spec.license      = { :type => 'MIT', :file => 'FILE_LICENSE' }
+  spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author             = { 'CK' => '1250578320@qq.com' }
   spec.social_media_url   = 'https://www.weilni.cn'
   spec.platform     = :ios, '8.0'
